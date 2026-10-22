@@ -1,0 +1,6 @@
+{
+  "name": "CANDIVELLE - 3D Cartoon Match-3 Game",
+  "description": "Magical 3D cartoon Match-3 puzzle adventure in the royal candy kingdom with Princess Candivelle, 100+ playable levels, juicy combos, and multi-language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
