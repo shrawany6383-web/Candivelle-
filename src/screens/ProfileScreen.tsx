@@ -129,7 +129,7 @@ export const ProfileScreen: React.FC<ProfileScreenProps> = ({
                 <img
                   src="/assets/aistudio/file_00000000c06c82088ba454beec7b950f_a13b195c.png"
                   alt="Princess"
-                  className="w-full h-full object-cover scale-125"
+                  className="w-full h-full object-cover"
                 />
               ) : (
                 <span>

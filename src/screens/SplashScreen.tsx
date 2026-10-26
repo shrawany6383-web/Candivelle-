@@ -81,7 +81,7 @@ export const SplashScreen: React.FC<SplashScreenProps> = ({ t, onFinish }) => {
             <img
               src="/assets/aistudio/file_00000000c06c82088ba454beec7b950f_a13b195c.png"
               alt="Princess Candivelle"
-              className="w-full h-full object-cover scale-110 translate-y-2"
+              className="w-full h-full object-cover"
             />
           </div>
         </div>

@@ -1,10 +1,14 @@
-const CACHE_NAME = 'candivelle-v1';
+const CACHE_NAME = 'candivelle-v2';
 const ASSETS_TO_CACHE = [
   '/',
   '/index.html',
   '/manifest.json',
-  '/assets/aistudio/file_00000000c06c82088ba454beec7b950f_a13b195c.png',
-  '/assets/aistudio/file_000000005d748208a356f159120995a7_4e2d0e66.png'
+  '/favicon.png',
+  '/favicon.ico',
+  '/apple-touch-icon.png',
+  '/icon-192.png',
+  '/icon-512.png',
+  '/icon-1024.png'
 ];
 
 self.addEventListener('install', (event) => {
